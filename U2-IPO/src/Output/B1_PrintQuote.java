@@ -1,3 +1,9 @@
+/** Name: Brian
+ *  Course: ICS 3U/C
+ *  Teacher: Mrs. McCaffery
+ *  Date: Oct 3, 2023
+ *  Description: 
+ */
 package Output;
 
 public class B1_PrintQuote {
