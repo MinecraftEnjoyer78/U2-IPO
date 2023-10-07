@@ -12,7 +12,7 @@ public class A1_Battleshipcall {
 		//
 		char row = 'C';
 		int column = 8;
-		
+
 		//It prints the battle code on the screen.
 		System.out.println("Hit at " + row + column);
 	}//end main
